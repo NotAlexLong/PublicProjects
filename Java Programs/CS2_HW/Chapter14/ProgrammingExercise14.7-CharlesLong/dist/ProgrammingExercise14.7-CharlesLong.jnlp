@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="ProgrammingExercise14.7-CharlesLong.jnlp">
+  <information>
+    <title>ProgrammingExercise14.7-CharlesLong</title>
+    <vendor>Alex</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="ProgrammingExercise14.7-CharlesLong.jar" size="2332" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="ProgrammingExercise14.7-CharlesLong" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="programmingexercise14.pkg7.charleslong.ProgrammingExercise147CharlesLong"  name="ProgrammingExercise14.7-CharlesLong" />
+  <update check="always"/>
+</jnlp>
